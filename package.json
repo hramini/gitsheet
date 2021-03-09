@@ -1,6 +1,6 @@
 {
   "name": "@rove-team/gitsheet",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "This project is an gitlab issue handler",
   "main": "./dist/src/index.js",
   "types": "./dist/index.d.ts",

@@ -38,17 +38,23 @@ The next step is creating a new google spreadsheet for your project information.
 
 The following headers with the same spell are required for your spreadsheet:
 
-- Project Title
+- **Project Title**
+
   This column is for your project title, which could be anything meaningful for yourself. This name does not have any impact on your results. 
-- Project ID
+- **Project ID**
+
   In this column, you should write the project ID of your git repository.
-- Sheet ID
+- **Sheet ID**
+
   For each project, you should create a google spreadsheet and share it with your client email. Then put its ID in this column.
-- Maximum Closed Show Days
+- **Maximum Closed Show Days**
+
   The number in this column is the maximum number of days that an issue had been closed. So the issues being closed for more days than this number would not be in the results.
-- Show Milestone
+- **Show Milestone**
+
   In this column, you should add a simple checkbox. Checking this checkbox will show the milestone column in the spreadsheet of this project.
-- Milestone Title
+- **Milestone Title**
+
   If you want to get the issues of a specific milestone, you need to write its name in this column. Empty column means showing all issues ( with or without milestone ). `Any` means showing all issues with any milestone. `None` means showing all issues without any milestone.
 
 ## How to use
